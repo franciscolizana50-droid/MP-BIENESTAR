@@ -1,6 +1,6 @@
 {
-  "name": "Seguimiento de ventas y bonos",
-  "short_name": "Ventas",
+  "name": "MP BIENESTAR ventas y bonos",
+  "short_name": "MP BIENESTAR",
   "description": "Seguimiento diario de ventas, metas y bonos. Funciona sin conexión.",
   "start_url": "./",
   "scope": "./",
