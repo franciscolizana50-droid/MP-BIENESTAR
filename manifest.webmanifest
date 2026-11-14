@@ -1,4 +1,5 @@
-{ "id": "MP BIENESTAR",
+{ 
+  "id": "/MP BIENESTAR/",
   "name": "MP BIENESTAR ventas y bonos",
   "short_name": "MP BIENESTAR",
   "description": "Seguimiento diario de ventas, metas y bonos. Funciona sin conexión.",
